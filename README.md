@@ -9,7 +9,7 @@ npm install -g yarn FGHWR
 
 apt install cargo
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://raw.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 source ~/.bashrc
 
